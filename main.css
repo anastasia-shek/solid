@@ -1,0 +1,39 @@
+@font-face{
+    font-family: Cyberpunk;
+    src: url(Cyberpunk-Regular.ttf);
+    
+}
+
+html{
+    background: red;
+    background-image:url(electricindigo.jpeg);
+    
+    cursor: url(https://ani.cursors-4u.net/symbols/sym-8/sym761.ani), url(https://ani.cursors-4u.net/symbols/sym-8/sym761.png), auto !important;
+}
+    
+
+
+
+
+h2{
+    font-family: Cyberpunk;
+}
+
+
+h3{
+    font-family: Cyberpunk;
+}
+
+body {
+    text-align: center;
+}
+
+.img1{
+    width: 1000px;
+}
+
+.img2{
+    width:1000px;
+    
+   
+}
